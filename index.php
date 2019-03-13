@@ -1,5 +1,5 @@
 <?php
-	//aaa
+	//aaabbb
 	$type = $_GET['type'];
 	$data = [
 		'name'	=> 'lxy',
